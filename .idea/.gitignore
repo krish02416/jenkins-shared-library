@@ -1,3 +1,11 @@
-# Default ignored files
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# IntelliJ cache
 /shelf/
 /workspace.xml
+
+# OS files
+.DS_Store
+Thumbs.db
